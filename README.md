@@ -26,6 +26,6 @@ Greek name days follow specific shifting rules based on Orthodox Easter:
 - If Orthodox Easter Sunday falls on or after `04-23`: Name days on `04-23` are moved to Easter Monday (offset `+1`).
 - If Orthodox Easter Sunday falls on or after `04-25`: Name days on `04-25` are moved to Easter Tuesday (offset `+2`).
 
-## Disclaimer
+## License & Disclaimer
 
-The data and files in this repository are provided **"as is", without warranty of any kind**, express or implied. You are free to use, modify, and distribute these datasets in your own applications.
+The data and files in this repository are provided **"as is", without warranty of any kind**, express or implied. You are free to use, modify, and distribute these datasets in your own applications (see the [LICENSE](/LICENSE) file for details).
