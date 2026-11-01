@@ -1,0 +1,408 @@
+{
+  "01-01": [
+    "Vasile",
+    "Vasilica"
+  ],
+  "01-02": [
+    "Silvestru",
+    "Silviu",
+    "Silvia"
+  ],
+  "01-06": [
+    "Bogdan",
+    "Bogdana",
+    "Iordan",
+    "Iordana"
+  ],
+  "01-07": [
+    "Ioan",
+    "Ioana",
+    "Ion",
+    "Ionel",
+    "Ionela",
+    "Ionuț",
+    "Oana"
+  ],
+  "01-12": [
+    "Tatiana"
+  ],
+  "01-14": [
+    "Nina"
+  ],
+  "01-17": [
+    "Anton",
+    "Antonia",
+    "Antonie"
+  ],
+  "01-18": [
+    "Atanasie",
+    "Chiril"
+  ],
+  "01-21": [
+    "Maxim"
+  ],
+  "01-22": [
+    "Timotei"
+  ],
+  "01-24": [
+    "Xenia"
+  ],
+  "01-25": [
+    "Grigore"
+  ],
+  "02-01": [
+    "Trifon"
+  ],
+  "02-03": [
+    "Simion",
+    "Simeon"
+  ],
+  "02-05": [
+    "Agata"
+  ],
+  "02-10": [
+    "Haralambie"
+  ],
+  "02-14": [
+    "Valentin",
+    "Valentina"
+  ],
+  "02-17": [
+    "Teodor",
+    "Teodora",
+    "Tudor",
+    "Tudora"
+  ],
+  "03-09": [
+    "Cezar",
+    "Cezara"
+  ],
+  "03-17": [
+    "Alexie"
+  ],
+  "03-19": [
+    "Daria",
+    "Darius"
+  ],
+  "03-26": [
+    "Gabriel",
+    "Gabriela"
+  ],
+  "04-23": [
+    "George",
+    "Georgeta",
+    "Georgiana",
+    "Gheorghe"
+  ],
+  "04-25": [
+    "Marcu"
+  ],
+  "05-05": [
+    "Irina"
+  ],
+  "05-10": [
+    "Simon",
+    "Simona"
+  ],
+  "05-20": [
+    "Lidia"
+  ],
+  "05-21": [
+    "Constantin",
+    "Elena",
+    "Ileana"
+  ],
+  "06-01": [
+    "Iustin",
+    "Iustina"
+  ],
+  "06-03": [
+    "Claudiu",
+    "Claudia"
+  ],
+  "06-15": [
+    "Augustin",
+    "Augustina"
+  ],
+  "06-24": [
+    "Sânziana"
+  ],
+  "06-29": [
+    "Pavel",
+    "Petre",
+    "Petru",
+    "Paul",
+    "Paula",
+    "Petronela"
+  ],
+  "07-01": [
+    "Cosmin",
+    "Cosmina",
+    "Damian"
+  ],
+  "07-11": [
+    "Olga"
+  ],
+  "07-12": [
+    "Veronica"
+  ],
+  "07-15": [
+    "Vladimir"
+  ],
+  "07-17": [
+    "Marina",
+    "Marin",
+    "Marinela"
+  ],
+  "07-18": [
+    "Emil",
+    "Emilia",
+    "Emilian",
+    "Emiliana"
+  ],
+  "07-20": [
+    "Ilie",
+    "Ilinca"
+  ],
+  "07-22": [
+    "Magdalena",
+    "Mădălina",
+    "Mădălin"
+  ],
+  "07-24": [
+    "Cristian",
+    "Cristina"
+  ],
+  "07-25": [
+    "Ana",
+    "Anca",
+    "Olimpia",
+    "Olimpiu"
+  ],
+  "07-27": [
+    "Pantelimon"
+  ],
+  "08-07": [
+    "Teodora"
+  ],
+  "08-10": [
+    "Laurențiu",
+    "Laura"
+  ],
+  "08-15": [
+    "Maria",
+    "Marian",
+    "Mariana",
+    "Marin",
+    "Marina",
+    "Marinela",
+    "Marius",
+    "Mara"
+  ],
+  "08-16": [
+    "Radu"
+  ],
+  "08-20": [
+    "Samuel"
+  ],
+  "08-21": [
+    "Tiberiu"
+  ],
+  "08-26": [
+    "Adrian",
+    "Adriana",
+    "Natalia"
+  ],
+  "08-30": [
+    "Alexandra",
+    "Alexandru",
+    "Alexia"
+  ],
+  "09-01": [
+    "Simion",
+    "Simona"
+  ],
+  "09-05": [
+    "Zaharia",
+    "Elisabeta",
+    "Eliza"
+  ],
+  "09-08": [
+    "Maria",
+    "Marian",
+    "Mariana",
+    "Marin",
+    "Marina",
+    "Marinela",
+    "Marius",
+    "Mara"
+  ],
+  "09-09": [
+    "Ana",
+    "Anca",
+    "Ioachim"
+  ],
+  "09-13": [
+    "Cornel",
+    "Corneliu",
+    "Cornelia"
+  ],
+  "09-16": [
+    "Ludmila"
+  ],
+  "09-17": [
+    "Sofia",
+    "Sonia",
+    "Vera",
+    "Nadia"
+  ],
+  "10-01": [
+    "Roman"
+  ],
+  "10-02": [
+    "Ciprian",
+    "Iustina"
+  ],
+  "10-03": [
+    "Denisa",
+    "Denis",
+    "Dionisie"
+  ],
+  "10-06": [
+    "Toma"
+  ],
+  "10-07": [
+    "Sergiu",
+    "Șerban"
+  ],
+  "10-14": [
+    "Parascheva",
+    "Paraschiva"
+  ],
+  "10-18": [
+    "Luca",
+    "Lucian",
+    "Luciana"
+  ],
+  "10-26": [
+    "Dumitru",
+    "Dumitra",
+    "Dimitrie"
+  ],
+  "10-29": [
+    "Anastasia"
+  ],
+  "11-01": [
+    "Cosmin",
+    "Cosmina",
+    "Damian"
+  ],
+  "11-08": [
+    "Gabriel",
+    "Gabriela",
+    "Mihaela",
+    "Mihai",
+    "Mihail"
+  ],
+  "11-09": [
+    "Nectarie",
+    "Claudiu",
+    "Claudia"
+  ],
+  "11-11": [
+    "Mina",
+    "Victor",
+    "Victoria"
+  ],
+  "11-14": [
+    "Filip"
+  ],
+  "11-16": [
+    "Matei"
+  ],
+  "11-21": [
+    "Ovidiu"
+  ],
+  "11-25": [
+    "Cătălin",
+    "Cătălina",
+    "Ecaterina"
+  ],
+  "11-26": [
+    "Stelian",
+    "Steliana",
+    "Stela"
+  ],
+  "11-30": [
+    "Andreea",
+    "Andrei",
+    "Andra"
+  ],
+  "12-04": [
+    "Varvara",
+    "Barbara"
+  ],
+  "12-05": [
+    "Sava",
+    "Sabin",
+    "Sabina"
+  ],
+  "12-06": [
+    "Nicolae",
+    "Nicoleta",
+    "Niculina",
+    "Nicola"
+  ],
+  "12-07": [
+    "Filofteia"
+  ],
+  "12-12": [
+    "Spiridon"
+  ],
+  "12-13": [
+    "Lucia"
+  ],
+  "12-15": [
+    "Suzana"
+  ],
+  "12-17": [
+    "Daniel",
+    "Daniela",
+    "Dan",
+    "Dana"
+  ],
+  "12-18": [
+    "Sebastian"
+  ],
+  "12-20": [
+    "Ignat"
+  ],
+  "12-21": [
+    "Iulia",
+    "Iulian",
+    "Iuliana"
+  ],
+  "12-22": [
+    "Anastasia"
+  ],
+  "12-24": [
+    "Eugen",
+    "Eugenia"
+  ],
+  "12-25": [
+    "Cristian",
+    "Cristina",
+    "Emanuel",
+    "Emanuela"
+  ],
+  "12-26": [
+    "David"
+  ],
+  "12-27": [
+    "Ștefan",
+    "Ștefania"
+  ],
+  "12-31": [
+    "Melania"
+  ]
+}
